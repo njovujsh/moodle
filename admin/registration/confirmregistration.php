@@ -33,7 +33,7 @@
  * This page save the token that the hub gave us, in order to call the hub
  * directory later by web service.
  */
-
+//Hey Hey
 require('../../config.php');
 require_once($CFG->libdir . '/adminlib.php');
 
